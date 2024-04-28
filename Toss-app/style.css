@@ -1,0 +1,21 @@
+body{
+    background-color: #000;
+}
+
+h1{
+display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+
+}
+p{
+    color: #fff;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+}
